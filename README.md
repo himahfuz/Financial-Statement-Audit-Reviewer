@@ -4,9 +4,9 @@ AI-powered pre-review assistant for financial statements.
 
 ## Download
 
-The installable plugin package will be published here as **plugin.zip**.
+[Download the plugin ZIP](https://github.com/himahfuz/Financial-Statement-Audit-Reviewer/raw/refs/heads/main/plugin.zip)
 
-> Package upload is pending. Until `plugin.zip` appears in this repository, the download link is not active.
+The package is provided as-is for installation in a compatible ChatGPT/Codex environment.
 
 ## Commands
 
